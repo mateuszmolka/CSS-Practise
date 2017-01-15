@@ -1,0 +1,8 @@
+p:not(#miasto) {
+    color: royalblue;
+}
+
+
+div#linki > a:not(.last) {
+    color: deeppink;
+}
