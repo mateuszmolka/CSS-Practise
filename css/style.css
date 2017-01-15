@@ -7,7 +7,7 @@ p {
     color: #ff0000;
 }
 
-#Miasto, a {
+#Miasto ~ p {
     color: hotpink;
 }
 
